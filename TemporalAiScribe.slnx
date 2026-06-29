@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/TemporalAiScribe.Activities/TemporalAiScribe.Activities.csproj" />
+    <Project Path="src/TemporalAiScribe.Api/TemporalAiScribe.Api.csproj" />
+    <Project Path="src/TemporalAiScribe.Contracts/TemporalAiScribe.Contracts.csproj" />
+    <Project Path="src/TemporalAiScribe.Infrastructure/TemporalAiScribe.Infrastructure.csproj" />
+    <Project Path="src/TemporalAiScribe.Persistence/TemporalAiScribe.Persistence.csproj" />
+    <Project Path="src/TemporalAiScribe.Shared/TemporalAiScribe.Shared.csproj" />
+    <Project Path="src/TemporalAiScribe.Worker/TemporalAiScribe.Worker.csproj" />
+    <Project Path="src/TemporalAiScribe.Workflows/TemporalAiScribe.Workflows.csproj" />
+  </Folder>
+</Solution>

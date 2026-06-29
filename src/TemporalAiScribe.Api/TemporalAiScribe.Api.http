@@ -1,0 +1,6 @@
+@TemporalAiScribe.Api_HostAddress = http://localhost:5044
+
+GET {{TemporalAiScribe.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
